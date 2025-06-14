@@ -9,7 +9,7 @@
 
 ## 🛠 Projects I’ve Built
 
-- 🕹 **Flappy Bird Clone (Java)**  
+- 🕹 **Flappy Bird Clone (Python)**  
   → Added shield bonus, score system, and collision logic with pixel-perfect detection
 
 - 🎯 **Hunter Game (Java)**  
