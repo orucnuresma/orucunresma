@@ -1,9 +1,9 @@
 
 # Hi there 👋 I'm Esmanur
 
-🎓 2nd year Computer Engineering student at FSMVU  
+🎓 3rd year Computer Engineering student at FSMVU  
 💡 Passionate about Embedded Systems, Microcontrollers (STM32), and Backend Development  
-💻 Languages & Tools: Java, Python, C, ARM Assembly, STM32CubeIDE, SQL
+💻 Languages & Tools: Java, Python, C,C++ , C#,ARM Assembly, STM32CubeIDE, SQL
 
 ---
 
